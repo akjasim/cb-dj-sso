@@ -2,7 +2,9 @@
 
 This is a part of YouTube Tutorial video on How to implement Single Sign-On (SSO) in your Django Application.
 
-!! Update YTB Link Here !!
+English : https://youtu.be/GQySb3W2feo
+
+Malayalam : https://youtu.be/2HauttTuTdA
 
 ## Usage
 
